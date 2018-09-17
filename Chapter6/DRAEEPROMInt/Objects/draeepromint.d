@@ -1,0 +1,9 @@
+.\objects\draeepromint.o: DRAEEPROMInt.c
+.\objects\draeepromint.o: DRAEEPROMInt.h
+.\objects\draeepromint.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\draeepromint.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\draeepromint.o: C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_eeprom.h
+.\objects\draeepromint.o: C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_sysctl.h
+.\objects\draeepromint.o: C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\eeprom.h
+.\objects\draeepromint.o: C:\ti\TivaWare_C_Series-2.1.4.178\driverlib\interrupt.h
+.\objects\draeepromint.o: C:\ti\TivaWare_C_Series-2.1.4.178\inc\hw_flash.h
